@@ -60,4 +60,4 @@ Exploitation and Post-Exploitation
 -Hashcat / John the Ripper — offline password hash cracking
 
 ## Penetration Testing Report
-<a href="https://github.com/wicklanm/System-Admin-Lab">Penetration Test</a>
+<a href="https://github.com/wicklanm/Penetration-Testing-Report">Penetration Test</a>
